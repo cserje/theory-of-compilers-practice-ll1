@@ -347,7 +347,6 @@ Output:
   
 
 // ---------------- Not accepted ----------------
-
 /*
 Input:
 	sin30

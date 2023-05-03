@@ -289,8 +289,8 @@ Output:
 	Accepted.
 */
 
-// ---------------- Not accepted ----------------
 
+// ---------------- Not accepted ----------------
 /*
 Input:
 	sin30
